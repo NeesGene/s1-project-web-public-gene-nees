@@ -1,0 +1,122 @@
+[
+  {
+    "id": "101",
+    "name": "Bacteria Monster",
+    "LevelIds": ["1"],
+    "Class": "Dangerous",
+    "Environments": ["Humid"],
+    "ThreatLevel": "High",
+    "Behavior": "Hostile",
+    "Description": "A dangerous creature associated with damp and humid environments. It is best avoided and should be approached with extreme caution.",
+    "Weaknesses": "Avoidance and maintaining distance",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/c05dfc6bfe9cbaea60ddb81914d5e144dfcf0ee9/images/Bacteria.webp?token=GHSAT0AAAAAAEJ2GTMSIHGL3I7CXFOORL3U2VSKDEA"
+  },
+  {
+    "id": "102",
+    "name": "Mimic",
+    "LevelIds": ["2"],
+    "Class": "Dangerous",
+    "Environments": ["Humid"],
+    "ThreatLevel": "High",
+    "Behavior": "Predatory",
+    "Description": "A hostile entity capable of disguising itself as part of its surroundings and using deception to lure wanderers into danger.",
+    "Weaknesses": "Recognition and maintaining a safe distance",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/Stealer_Transparent.webp?token=GHSAT0AAAAAAEJ2GTMTJ7M34ZAQOWPWI6JW2VSK4XQ"
+  },
+  {
+    "id": "103",
+    "name": "Partygoer",
+    "LevelIds": ["4"],
+    "Class": "Dangerous",
+    "Environments": ["Party Areas", "Indoor"],
+    "ThreatLevel": "Extreme",
+    "Behavior": "Hostile",
+    "Description": "A hostile party-themed entity that uses a cheerful appearance and environment to disguise the danger surrounding it.",
+    "Weaknesses": "Avoidance and leaving party-themed areas",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/Partygoer.webp?token=GHSAT0AAAAAAEJ2GTMS3HXVYPBSVMF6V3HM2VSK3OA"
+  },
+  {
+    "id": "104",
+    "name": "Party Pooper",
+    "LevelIds": ["4"],
+    "Class": "Safe",
+    "Environments": ["Party Areas", "Indoor"],
+    "ThreatLevel": "Low",
+    "Behavior": "Protective",
+    "Description": "An entity associated with the party-themed environment that is generally considered non-hostile and can oppose Partygoers.",
+    "Weaknesses": "No known significant weakness",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/Partypooper.webp?token=GHSAT0AAAAAAEJ2GTMTILPH4ULCXUKTDB2W2VSK36A"
+  },
+  {
+    "id": "105",
+    "name": "Smiler",
+    "LevelIds": ["3"],
+    "Class": "Dangerous",
+    "Environments": ["Dark", "Low Light"],
+    "ThreatLevel": "High",
+    "Behavior": "Aggressive",
+    "Description": "A dangerous entity commonly associated with darkness. Its distinctive appearance makes it particularly recognizable in poorly lit environments.",
+    "Weaknesses": "Avoid darkness and maintain distance",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/Smiler.webp?token=GHSAT0AAAAAAEJ2GTMS67TGX45LIK3XGLTY2VSK4KQ"
+  },
+  {
+    "id": "106",
+    "name": "Hounds",
+    "LevelIds": ["3"],
+    "Class": "Dangerous",
+    "Environments": ["Electrical Areas", "Dark Areas"],
+    "ThreatLevel": "High",
+    "Behavior": "Aggressive",
+    "Description": "Fast and hostile creatures that can be encountered in dangerous areas. They are especially threatening when encountered unexpectedly.",
+    "Weaknesses": "Avoidance and creating distance",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/HoundModel.webp?token=GHSAT0AAAAAAEJ2GTMTQ7KWBMK62FHJEGAY2VSLQNQ"
+  },
+  {
+    "id": "107",
+    "name": "Clump",
+    "LevelIds": ["3"],
+    "Class": "Dangerous",
+    "Environments": ["Dark", "Industrial"],
+    "ThreatLevel": "High",
+    "Behavior": "Aggressive",
+    "Description": "A hostile entity made up of multiple limbs that can be difficult to predict and dangerous at close range.",
+    "Weaknesses": "Distance and exploiting its lack of coordination",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/Clump.webp?token=GHSAT0AAAAAAEJ2GTMS5OKQ6HKWEX2JGBX62VSLQ3Q"
+  },
+  {
+    "id": "108",
+    "name": "Mr Kitty",
+    "LevelIds": ["6"],
+    "Class": "Dangerous",
+    "Environments": ["High Danger Zones", "Indoor"],
+    "ThreatLevel": "High",
+    "Behavior": "Unpredictable",
+    "Description": "A dangerous entity with a distinctive feline appearance. Encounters should be treated cautiously because its behavior can be unpredictable.",
+    "Weaknesses": "Avoidance",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/Newer_Kitty_Transparent.webp?token=GHSAT0AAAAAAEJ2GTMSBAL6I7D57EF4RIC62VSLRNQ"
+  },
+  {
+    "id": "109",
+    "name": "The Animated King",
+    "LevelIds": ["8"],
+    "Class": "Dangerous",
+    "Environments": ["Dark", "Circus", "Fantasy"],
+    "ThreatLevel": "Extreme",
+    "Behavior": "Intelligent",
+    "Description": "A powerful and intelligent entity associated with a strange animated and fantastical environment. It is considered extremely dangerous to confront directly.",
+    "Weaknesses": "Avoidance and non-confrontation",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/The_Animated_King.webp?token=GHSAT0AAAAAAEJ2GTMS6EUYTBYZV6YQDW5I2VSLR4Q"
+  },
+  {
+    "id": "110",
+    "name": "Aranea Membri",
+    "LevelIds": ["7"],
+    "Class": "Dangerous",
+    "Environments": ["Hotels", "Indoor"],
+    "ThreatLevel": "High",
+    "Behavior": "Predatory",
+    "Description": "A dangerous spider-like entity associated with hotel environments. Wanderers should avoid close encounters.",
+    "Weaknesses": "Avoidance and maintaining distance",
+    "ImageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-gene-nees/refs/heads/main/images/New_Aranea_Membri.webp?token=GHSAT0AAAAAAEJ2GTMT7C3QJ7Y4XJSFDPN42VSLSJA"
+  }
+]
