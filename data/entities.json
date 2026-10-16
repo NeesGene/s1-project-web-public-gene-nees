@@ -1,8 +1,8 @@
 [
   {
-    "id": "101",
+    "id": 101,
     "name": "Bacteria Monster",
-    "LevelIds": ["1"],
+    "LevelIds": 1,
     "Class": "Dangerous",
     "Environments": ["Humid"],
     "ThreatLevel": "High",
@@ -12,9 +12,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/Bacteria.webp"
   },
   {
-    "id": "102",
+    "id": 102,
     "name": "Mimic",
-    "LevelIds": ["2"],
+    "LevelIds": 2,
     "Class": "Dangerous",
     "Environments": ["Humid"],
     "ThreatLevel": "High",
@@ -24,9 +24,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/Stealer_Transparent.webp"
   },
   {
-    "id": "103",
+    "id": 103,
     "name": "Partygoer",
-    "LevelIds": ["4"],
+    "LevelIds": 4,
     "Class": "Dangerous",
     "Environments": ["Party Areas", "Indoor"],
     "ThreatLevel": "Extreme",
@@ -36,9 +36,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/Partygoer.webp"
   },
   {
-    "id": "104",
+    "id": 104,
     "name": "Party Pooper",
-    "LevelIds": ["4"],
+    "LevelIds": 4,
     "Class": "Safe",
     "Environments": ["Party Areas", "Indoor"],
     "ThreatLevel": "Low",
@@ -48,9 +48,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/Partypooper.webp"
   },
   {
-    "id": "105",
+    "id": 105,
     "name": "Smiler",
-    "LevelIds": ["3"],
+    "LevelIds": 3,
     "Class": "Dangerous",
     "Environments": ["Dark", "Low Light"],
     "ThreatLevel": "High",
@@ -60,9 +60,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/Smiler.webp"
   },
   {
-    "id": "106",
+    "id": 106,
     "name": "Hounds",
-    "LevelIds": ["3"],
+    "LevelIds": 3,
     "Class": "Dangerous",
     "Environments": ["Electrical Areas", "Dark Areas"],
     "ThreatLevel": "High",
@@ -72,9 +72,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/HoundModel.webp"
   },
   {
-    "id": "107",
+    "id": 107,
     "name": "Clump",
-    "LevelIds": ["3"],
+    "LevelIds": 3,
     "Class": "Dangerous",
     "Environments": ["Dark", "Industrial"],
     "ThreatLevel": "High",
@@ -84,9 +84,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/Clump.webp"
   },
   {
-    "id": "108",
+    "id": 108,
     "name": "Mr Kitty",
-    "LevelIds": ["6"],
+    "LevelIds": 6,
     "Class": "Dangerous",
     "Environments": ["High Danger Zones", "Indoor"],
     "ThreatLevel": "High",
@@ -96,9 +96,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/Newer_Kitty_Transparent.webp"
   },
   {
-    "id": "109",
+    "id": 109,
     "name": "The Animated King",
-    "LevelIds": ["8"],
+    "LevelIds": 8,
     "Class": "Dangerous",
     "Environments": ["Dark", "Circus", "Fantasy"],
     "ThreatLevel": "Extreme",
@@ -108,9 +108,9 @@
     "ImageUrl": "https://raw.githubusercontent.com/NeesGene/s1-project-web-public-gene-nees/refs/heads/main/images/The_Animated_King.webp"
   },
   {
-    "id": "110",
+    "id": 110,
     "name": "Aranea Membri",
-    "LevelIds": ["7"],
+    "LevelIds": 7,
     "Class": "Dangerous",
     "Environments": ["Hotels", "Indoor"],
     "ThreatLevel": "High",
