@@ -2,7 +2,7 @@
   {
     "id": 101,
     "name": "Bacteria Monster",
-    "LevelIds": 1,
+    "levelId": 1,
     "Class": "Dangerous",
     "Environments": ["Humid"],
     "ThreatLevel": "High",
@@ -14,7 +14,7 @@
   {
     "id": 102,
     "name": "Mimic",
-    "LevelIds": 2,
+    "levelId": 2,
     "Class": "Dangerous",
     "Environments": ["Humid"],
     "ThreatLevel": "High",
@@ -26,7 +26,7 @@
   {
     "id": 103,
     "name": "Partygoer",
-    "LevelIds": 4,
+    "levelId": 4,
     "Class": "Dangerous",
     "Environments": ["Party Areas", "Indoor"],
     "ThreatLevel": "Extreme",
@@ -38,7 +38,7 @@
   {
     "id": 104,
     "name": "Party Pooper",
-    "LevelIds": 4,
+    "levelId": 4,
     "Class": "Safe",
     "Environments": ["Party Areas", "Indoor"],
     "ThreatLevel": "Low",
@@ -50,7 +50,7 @@
   {
     "id": 105,
     "name": "Smiler",
-    "LevelIds": 3,
+    "levelId": 3,
     "Class": "Dangerous",
     "Environments": ["Dark", "Low Light"],
     "ThreatLevel": "High",
@@ -62,7 +62,7 @@
   {
     "id": 106,
     "name": "Hounds",
-    "LevelIds": 3,
+    "levelId": 3,
     "Class": "Dangerous",
     "Environments": ["Electrical Areas", "Dark Areas"],
     "ThreatLevel": "High",
@@ -74,7 +74,7 @@
   {
     "id": 107,
     "name": "Clump",
-    "LevelIds": 3,
+    "levelId": 3,
     "Class": "Dangerous",
     "Environments": ["Dark", "Industrial"],
     "ThreatLevel": "High",
@@ -86,7 +86,7 @@
   {
     "id": 108,
     "name": "Mr Kitty",
-    "LevelIds": 6,
+    "levelId": 6,
     "Class": "Dangerous",
     "Environments": ["High Danger Zones", "Indoor"],
     "ThreatLevel": "High",
@@ -98,7 +98,7 @@
   {
     "id": 109,
     "name": "The Animated King",
-    "LevelIds": 8,
+    "levelId": 8,
     "Class": "Dangerous",
     "Environments": ["Dark", "Circus", "Fantasy"],
     "ThreatLevel": "Extreme",
@@ -110,7 +110,7 @@
   {
     "id": 110,
     "name": "Aranea Membri",
-    "LevelIds": 7,
+    "levelId": 7,
     "Class": "Dangerous",
     "Environments": ["Hotels", "Indoor"],
     "ThreatLevel": "High",
